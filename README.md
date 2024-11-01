@@ -27,7 +27,7 @@
 1. Conexão do GND na protoboard (por meio de um fio macho-macho).
 2. Posicionamento dos LEDs na estrutura de MDF.
 3. Conexão dos jumpers macho-fêmea em cada LED (vermelho, verde e amarelo), ligando eles à protoboard.
-4. Conexão das portas aos LEDs (com resistores para proteção na protoboard), usando jumpers macho-macho.
+4. Conexão das portas aos LEDs (com resistores para proteção), usando jumpers macho-macho.
 
 <br><br>
 
